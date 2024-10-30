@@ -6,7 +6,7 @@ const Header = () => {
     <>
       <header className="bg-rose-300 h-16  border-b-2 border-slate-900/10 flex items-center justify-between px-6 md:px-12">
         <h1 className="font-sans text-xl font-semibold text-slate-800">
-          Sobia's Portfolio
+          Zubayda's Portfolio
         </h1>
         <nav>
           <ul className="flex gap-6 text-slate-600">

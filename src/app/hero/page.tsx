@@ -10,7 +10,7 @@ const Hero = () => {
         id="hero"
         className="relative min-h-screen bg-no-repeat bg-left lg:bg-[15%] bg-cover"
         style={{
-          backgroundImage: "url(/portfolio.png)",
+          backgroundImage: "url(/pic.jfif)",
           backgroundSize: "30%",
           backgroundPosition: "left 100px top 100px",
         }}
@@ -23,8 +23,8 @@ const Hero = () => {
           <div className="hidden lg:block"></div>
           <div className="text-[50px] sm:text-[50px] font-bold leading-tight flex justify-center items-center">
             <div>
-              <p>Hi! I'm Sobia Fatima</p>
-              <p>And I'm Frontend Developer</p>
+              <p>Hi! I'm Zubaida Khatoon</p>
+              <p>And I'm Frontend Developer & Graphic Designer</p>
             </div>
           </div>
         </div>

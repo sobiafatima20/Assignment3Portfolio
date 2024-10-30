@@ -11,17 +11,17 @@ const Footer = () => {
         <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className=' text-pink-700 hover:text-pink-950  self-center'>
         <FaInstagram size={50}  />
       </a>
-      <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer"  className=' text-blue-700 hover:text-blue-900  self-center'>
+      <a href="https://linkedin.com/Zubayda_zk" target="_blank" rel="noopener noreferrer"  className=' text-blue-700 hover:text-blue-900  self-center'>
         <FaLinkedin size={50} />
       </a>
       <a href="https://web.facebook.com" target="_blank" rel="noopener noreferrer"  className=' text-blue-600 hover:text-blue-800  self-center'>
         <FaFacebook size={50} />
       </a>
-      <a href="https://github.com/sobiafatima20" target="_blank" rel="noopener noreferrer"  className=' text-black hover:text-gray-800 self-center'>
+      <a href="https://github.com/Zubaida23" target="_blank" rel="noopener noreferrer"  className=' text-black hover:text-gray-800 self-center'>
         <FaGithub size={50} />
       </a>
       </div>
-      <p className="text-center  mt-4">Copyright &copy; 2024 Sobia Fatima. All rights reserved.</p>
+      <p className="text-center  mt-4">Copyright &copy; 2024 Zubaida_zk. All rights reserved.</p>
         </div>
     </>
   )

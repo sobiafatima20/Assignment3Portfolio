@@ -14,14 +14,14 @@ const About = () => {
         <div className="flex justify-center mt-8">
           <Image
             className="rounded-full border-rose-500 border-4"
-            src="/profilepic.jpg"
+            src="/pix.jfif"
             alt="profile-pic"
             width={90}
             height={90} 
           />
         </div>
         <p className="ml-3 mt-4 mr-3 text-justify">
-          <b>Assalam O Aleikum</b>, my name is <b>Sobia Fatima</b>. I am a
+          <b><i>Assalam O Aleikum</i></b>, my name is <b><i>Zubaida Khatoon</i></b>. I am a
           detail-oriented professional with a background in computer science and
           a passion for programming. I'm a front-end developer with experience
           in technologies like React, .NET, MVC, and databases. You have been
